@@ -23,8 +23,11 @@ A loop where a "Writer" generates content and a "Critic" evaluates it. If the qu
 To run these notebooks, you will need to install the following libraries:
 
 langchain-groq 
+
 langgraph 
+
 python-dotenv 
+
 pydantic
 
 You will also need a `.env` file in the root directory with your API key:
